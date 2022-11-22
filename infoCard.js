@@ -10,7 +10,7 @@ const casilla= [
         1:{
             titulo:"Mascarilla Kn95",
             img:'./imgs/mask_kn95.jpg',
-            precio: 13,
+            precio: 5,
             sancion:null,
             arca:false
         },
@@ -22,16 +22,16 @@ const casilla= [
             arca:true
         },
         3:{
-            titulo:"Mascarilla Kn95",
-            img:'./imgs/mask_kn95.jpg',
-            precio: 13,
+            titulo:"Calazado de baja resistencia",
+            img:'./imgs/calzado-baja.png',
+            precio: 25,
             sancion:null,
             arca:false
         },
         4:{
-            titulo:"Salida",
+            titulo:"Traje de protección del tipo 3 y 4",
             img:'./imgs/salida.jpg',
-            precio: null,
+            precio: 20,
             sancion:null,
             arca:false
         },
